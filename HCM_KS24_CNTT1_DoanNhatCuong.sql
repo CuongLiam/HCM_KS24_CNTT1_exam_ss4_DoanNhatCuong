@@ -1,6 +1,5 @@
 CREATE DATABASE IF NOT EXISTS library_db;
 USE library_db;
-
 --------------------------------------------------
 -- Câu 1 (DDL): Tạo 3 bảng Reader, Book, Borrow
 --------------------------------------------------
